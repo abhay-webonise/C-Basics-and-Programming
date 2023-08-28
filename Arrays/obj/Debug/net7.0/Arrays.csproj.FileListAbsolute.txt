@@ -1,0 +1,14 @@
+/home/abhayb/dotnet/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhayb/dotnet/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/home/abhayb/dotnet/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/home/abhayb/dotnet/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/home/abhayb/dotnet/Arrays/bin/Debug/net7.0/Arrays
+/home/abhayb/dotnet/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/home/abhayb/dotnet/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/home/abhayb/dotnet/Arrays/bin/Debug/net7.0/Arrays.dll
+/home/abhayb/dotnet/Arrays/bin/Debug/net7.0/Arrays.pdb
+/home/abhayb/dotnet/Arrays/obj/Debug/net7.0/Arrays.dll
+/home/abhayb/dotnet/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/home/abhayb/dotnet/Arrays/obj/Debug/net7.0/Arrays.pdb
+/home/abhayb/dotnet/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/home/abhayb/dotnet/Arrays/obj/Debug/net7.0/ref/Arrays.dll
