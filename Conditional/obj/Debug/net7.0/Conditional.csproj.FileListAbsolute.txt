@@ -1,0 +1,14 @@
+/home/abhayb/dotnet/Conditional/bin/Debug/net7.0/Conditional
+/home/abhayb/dotnet/Conditional/bin/Debug/net7.0/Conditional.deps.json
+/home/abhayb/dotnet/Conditional/bin/Debug/net7.0/Conditional.runtimeconfig.json
+/home/abhayb/dotnet/Conditional/bin/Debug/net7.0/Conditional.dll
+/home/abhayb/dotnet/Conditional/bin/Debug/net7.0/Conditional.pdb
+/home/abhayb/dotnet/Conditional/obj/Debug/net7.0/Conditional.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhayb/dotnet/Conditional/obj/Debug/net7.0/Conditional.AssemblyInfoInputs.cache
+/home/abhayb/dotnet/Conditional/obj/Debug/net7.0/Conditional.AssemblyInfo.cs
+/home/abhayb/dotnet/Conditional/obj/Debug/net7.0/Conditional.csproj.CoreCompileInputs.cache
+/home/abhayb/dotnet/Conditional/obj/Debug/net7.0/Conditional.dll
+/home/abhayb/dotnet/Conditional/obj/Debug/net7.0/refint/Conditional.dll
+/home/abhayb/dotnet/Conditional/obj/Debug/net7.0/Conditional.pdb
+/home/abhayb/dotnet/Conditional/obj/Debug/net7.0/Conditional.genruntimeconfig.cache
+/home/abhayb/dotnet/Conditional/obj/Debug/net7.0/ref/Conditional.dll
